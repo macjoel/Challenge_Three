@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 231, 231);
+}
+#header_section{
+    width: 100%;
+    height: 100px;
+    background-color: #3b5998;
+}
+/*Log Section*/
+#log_section{
+    dbackground-color: aquamarine;
+    float: left;
+    height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 100px;
+}
+/*Log Label*/
+#log_label{
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+#login_label_4gt{
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+
+#login_section{
+    height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 100px;
+    float: right;
+}
+/*Email_section*/
+#email_section{
+    float: left;
+    margin-right: 15px;
+}
+#password_section{
+    float: right;
+}
+/*Styling the inputs*/
+.login_inputs{
+    border: 1px solid gray;
+    height: 28px;
+    padding: 0px 5px 0px 8px;
+    border-radius: 5px;
+
+}
+/*Login Button*/
+#loginbtn{
+    height: 28px;
+    padding: 2px 18px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login_label{
+    color: white;
+}
+.macjoel{
+    font-size: 28px;
+    font-family: sans-serif,
+}
+/*Sub Main Body*/
+#sub_main_body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#left_side{
+    float: left;
+    width: 60%;
+    dbackground-color: blueviolet;
+    background-image: url("/clipart1734659.png");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+#right_side{
+    float: left;
+    width: 40%;
+    cbackground-color: brown;
+    height: 600px;
+}
+
+#create_account_label{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+#free_label{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.terms_label{
+    font-family: sans-serif;
+    font-size: 13px;
+}
+#signup_btn{
+    /*height: 28px;
+    padding: 2px 18px;
+    border: 1px solid gray;
+    line-height: 10px;
+    padding: 15px 70px 25px 70px;
+    border-radius: 1px solid lightgreen;
+    background-color: rgb(90, 216, 90);
+    border-radius: 5px;
+    cursor: pointer;*/
+    background: linear-gradient(#67ae55, #578843);
+    background-color: rgba(0, 0, 0, 0);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    padding: 20px 30px;
+    border: 1px solid;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.create_pg{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.inpt_signup1{
+    width: 44%;
+    border: 1px solid rgb(194, 193, 193);
+    border-radius: 5px;
+    line-height: 10px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+    color: gray;
+    font-size: 18px;
+    float: left;
+}
+.first_name{
+   margin-right: 10px;
+}
+.option_menu{
+    border: 1px solid rgb(194, 193, 193);
+    line-height: 10px;
+    padding: 5px 5px 5px 5px;
+}
+.label_bd{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.bd_label{
+    float: right;
+    margin-right: 65px;
+    font-size: 15px;
+}
+.bd_gender{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.inpt_signup{
+    width: 95%;
+    border: 1px solid rgb(194, 193, 193);
+    border-radius: 5px;
+    line-height: 10px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+    color: gray;
+    font-size: 18px;
+}
+.form_inputs{
+    background-color: aqua;
+    bmargin-right: 10px;
+}
+/* footer_section */
+#footer_section{
+    background-color: white;
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.footer_div{
+    xbackground-color: rgb(61, 44, 12);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 45px;
+}
+.English{
+    color: gray;
+}
+.line{
+    cheight: 0px;
+    background-color: gray;
+}
